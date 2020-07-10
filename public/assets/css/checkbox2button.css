@@ -1,0 +1,11 @@
+.btn-checkbox {
+	width: 100%;
+}
+.btn-checkbox-checked {
+	color: #FFF;
+	background-color: #333;
+}
+.btn-checkbox-checked:hover {
+	color: #FFF;
+	background-color: #000;
+}
